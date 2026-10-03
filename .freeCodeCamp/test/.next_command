@@ -136,3 +136,5 @@ psql --username=freecodecamp --dbname=worldcup
 diff /tmp/out.txt expected_output.txt
 ./queries.sh > /tmp/out.txt
 diff /tmp/out.txt expected_output.txt
+exit
+exit
